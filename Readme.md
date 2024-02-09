@@ -1,4 +1,4 @@
-                                        Course Registration System Readme :-
+                                        Course Registration System :-
 
 
 This project is a C program for a Course Registration System. It consists of a server and client component. The server handles the core functionality of course management, while clients can connect to the server to perform various actions depending on their roles, including admin, faculty, and student.
